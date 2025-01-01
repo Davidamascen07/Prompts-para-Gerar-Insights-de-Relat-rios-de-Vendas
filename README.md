@@ -10,4 +10,4 @@
  - quais São os produtos mais populares.
  - como otimizar o processo de trasporte e logistica ate o momento da venda.
 
-# Prompts-para-Gerar-Insights-de-Relat-rios-de-Vendas
+# Prompts-para-Gerar-Insights-de-Relatorios-de-Vendas
